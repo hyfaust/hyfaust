@@ -39,9 +39,9 @@ Just coding for fun.
 
 <div align="center">
 
-![HyFaust's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyfaust&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://raw.githubusercontent.com/hyfaust/hyfaust/main/profile-summary-card-output/tokyonight/3-stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyfaust&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://raw.githubusercontent.com/hyfaust/hyfaust/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 
 </div>
 
