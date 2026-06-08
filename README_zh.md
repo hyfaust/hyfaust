@@ -27,10 +27,9 @@ Just coding for fun.
 
 | 项目 | 描述 | 技术 |
 |------|------|------|
-| **Ken Brakkle's doc translation and analysis** | 我觉得这是我做过最有价值的事，但这人让我累得够呛 | `AI和我的努力` |
 | [**ChillFocus**](https://github.com/hyfaust/chillfocus) | 我用AI做的最实用的东西（应该算比较实用吧……相比其它东西），虽然仍然有很多问题 | `Vite, Tauri` |
 | [**Free Theory**](https://github.com/hyfaust/free-theory) | Free as in freedom. 福定律（F-law），重大突破，欢迎报道 | `LaTeX` |
-| [**Pysixel**](https://github.com/hyfaust/pysixel)和[**Sixel-Web**](https://github.com/hyfaust/sixel-web) | sixel编码和解码的python和javascript实现 |`Python, Javascript`|
+| [**Pysixel**](https://github.com/hyfaust/pysixel)和[**Sixel-Web**](https://github.com/hyfaust/sixel-web) | Sixel编码和解码的python和javascript实现 |`Python, Javascript`|
 | [**Science-Art**](https://github.com/hyfaust/science-art) | 一些科学计算的可视化 |`Javascript`|
 
 ### 🏆 竞赛与奖项

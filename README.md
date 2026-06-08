@@ -27,7 +27,6 @@ Just coding for fun.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **Ken Brakkle's doc translation and analysis** | I think this is the most valuable thing I ever did, but this man makes me exhausted | `AI and my hard work` |
 | [**ChillFocus**](https://github.com/hyfaust/chillfocus) | The most practical thing I've built with AI (relatively practical, compared to the rest), though it still has many issues | `Vite, Tauri` |
 | [**Free Theory**](https://github.com/hyfaust/free-theory) | Free as in freedom. Fu's Law (F-law), major breakthrough, contributions welcome | `LaTeX` |
 | [**Pysixel**](https://github.com/hyfaust/pysixel) & [**Sixel-Web**](https://github.com/hyfaust/sixel-web) | Python and JavaScript implementations of Sixel encoding and decoding | `Python, JavaScript` |
