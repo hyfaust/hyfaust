@@ -40,9 +40,11 @@ Just coding for fun.
 
 <div align="center">
 
-![Stats](https://raw.githubusercontent.com/hyfaust/hyfaust/main/profile-summary-card-output/tokyonight/3-stats.svg)
+![Profile Details](https://raw.githubusercontent.com/hyfaust/hyfaust/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 ![Top Languages](https://raw.githubusercontent.com/hyfaust/hyfaust/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+
+![Productive Time](https://raw.githubusercontent.com/hyfaust/hyfaust/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
 
 </div>
 
